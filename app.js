@@ -4,3 +4,4 @@ const sorting = () => {
 const filterUsers = () => {
   console.log("filter");
 };
+const pagination = () => {};
