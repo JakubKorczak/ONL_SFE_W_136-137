@@ -1,3 +1,3 @@
-const filter = () => {
+const filterUsers = () => {
   console.log("filter");
 };
